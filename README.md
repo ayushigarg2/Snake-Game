@@ -11,7 +11,7 @@ A basic game of Snake game built with [Javascript](https://github.com/topics/jav
 
 ## Objective
 Your goal is simple, you have to achieve the maximum length for your snake.<br/>
-You lose if your snake collides with itself or with the walls of the arena.
+You lose if your snake collides with itself .
 
 
 ## Mechanics
